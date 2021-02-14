@@ -1,1 +1,1 @@
-# MIght-Frontier
+# MIghtyFrontier
